@@ -1,3 +1,5 @@
+-前段时间在解决分类任务时，发现当正负例比例相差较大时，分类算法更倾向于优化比例较大的类别的loss，最终导致正负例上的正确率有极大悬殊。
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/suvedo/suvedo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -22,6 +24,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+
 
 **Bold** and _Italic_ and `Code` text
 
